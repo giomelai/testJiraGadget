@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
 <ModulePrefs
-title="MrAddon example of JIRA Server Dashboard Gadget"
-author="Raul Pelaez raulpelaez@mraddon.com www.mraddon.com"
-thumbnail="https://route_to_.png"
-screenshot="https://route_to.png"
+title="Test Dashboard Gadget"
+author="Giovanni"
+thumbnail=""
+screenshot=""
 description="JIRA Server Dashboard Description">
  
 <Require feature="minimessage" />
